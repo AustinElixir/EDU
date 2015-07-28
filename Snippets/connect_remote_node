@@ -1,0 +1,12 @@
+localhost ward$ erl -sname foo
+Erlang R15B02 (erts-5.9.2) [source] [64-bit] [smp:2:2] [async-threads:0] [hipe] [kernel-poll:false] [dtrace]
+
+Eshell V5.9.2  (abort with ^G)
+()1> net_adm:ping().
+pong
+()2> 
+User switch command
+ --> r 
+ --> c
+Eshell V5.9.2  (abort with ^G)
+()1> 

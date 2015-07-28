@@ -1,2 +1,2 @@
 # EDU
-Files supporting educational endeavors with the Erlang language
+Educational resources for studying Erlang
